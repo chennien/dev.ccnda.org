@@ -1,0 +1,6 @@
+#
+# Robots.txt file for dev.ccnda.org
+# For questions, please contact https://mailhide.io/e/1Va5oZ6x .
+
+User-agent: *
+Disallow: /
